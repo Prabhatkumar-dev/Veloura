@@ -1,6 +1,6 @@
-# 🌟 Premier – Model Hire & Management Website
+# 🌟 Veloura – Model Hire & Management Website
 
-**Premier** is a modern, animated, and responsive front-end website designed for model hiring and talent management. Built with HTML, CSS, JavaScript, and powered by GSAP animations, 
+**Veloura** is a modern, animated, and responsive front-end website designed for model hiring and talent management. Built with HTML, CSS, JavaScript, and powered by GSAP animations, 
 it serves as a sleek interface where users can explore model profiles, simulate bookings, and experience smooth navigation – all with an elegant, professional aesthetic.
 
 > ⚠️ This is a **front-end prototype**. Functionality like bookings and profile management is static and intended for UI/UX demonstration only.
@@ -9,7 +9,7 @@ it serves as a sleek interface where users can explore model profiles, simulate 
 
 ## 🚀 Live Demo
 
-🔗 [Live Site](https://your-username.github.io/premier) (yet to be hosted...(working))
+🔗 [Live Site](https://your-username.github.io/veloura) (yet to be hosted...(working))
 
 ---
 
@@ -49,4 +49,5 @@ it serves as a sleek interface where users can explore model profiles, simulate 
 ✨ Credits
 
 Created by PRABHAT KUMAR
+
 Animations powered by GSAP (GreenSock)
