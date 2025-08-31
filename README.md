@@ -10,7 +10,11 @@ it serves as a sleek interface where users can explore model profiles, simulate 
 ## 🚀 Live Demo
 
 🔗 [Live Site](https://your-username.github.io/veloura) (yet to be hosted...(working))
-
+*Screenshots of website : * 
+   Click to view : https://github.com/Prabhatkumar-dev/Veloura/blob/main/Results/ss1.png
+                   https://github.com/Prabhatkumar-dev/Veloura/blob/main/Results/ss2.png
+                   https://github.com/Prabhatkumar-dev/Veloura/blob/main/Results/ss3.png
+                   https://github.com/Prabhatkumar-dev/Veloura/blob/main/Results/ss4.png
 ---
 
 ## 🖼️ Features
